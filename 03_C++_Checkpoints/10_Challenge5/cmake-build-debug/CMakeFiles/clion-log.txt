@@ -1,0 +1,4 @@
+"D:\Applications\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\yidin\OneDrive\01_Life\Udacity_SelfDrivingCarTerm2\03_C++_Checkpoints\10_Challenge5
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/yidin/OneDrive/01_Life/Udacity_SelfDrivingCarTerm2/03_C++_Checkpoints/10_Challenge5/cmake-build-debug

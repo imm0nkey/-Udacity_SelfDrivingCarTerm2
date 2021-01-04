@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/yidin/OneDrive/01_Life/Udacity_SelfDrivingCarTerm2/03_C++_Checkpoints/02_Challenge1/cmake-build-debug/CMakeFiles/02_Challenge1.dir/embed.manifest"

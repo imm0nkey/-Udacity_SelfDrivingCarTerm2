@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/yidin/OneDrive/01_Life/Udacity_SelfDrivingCarTerm2/03_C++_Checkpoints/02_Challenge1/main.cpp
+iostream
+-
+
