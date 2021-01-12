@@ -5,3 +5,4 @@ def update(mean1, var1, mean2, var2):
 
 
 print(update(10., 8., 13., 2.))  # [12.4, 1.6]
+print(update(10., 4., 12., 4.))  # [11.0, 2.0]
